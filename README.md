@@ -71,7 +71,9 @@ Recon-ng took 18 seconds to run and found the following open ports: 22,8080
 ## Author & Context
 
 **Author:** Rasheed Jimoh
+
 **Purpose:** Tool evaluation and lab benchmarking for offensive security learning and tool selection.
+
 **Intended use:** Controlled lab environments and authorised penetration tests only.
 
 ---
